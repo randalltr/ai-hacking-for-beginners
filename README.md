@@ -102,9 +102,8 @@ Please read the [full disclaimer here](DISCLAIMER.md).
 
 Licensed under **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)**  
 You can:
-
-- Share, fork, remix  
-  You cannot:
+- Share, fork, remix
+You cannot:
 - Sell or monetize without permission
 
 ---
