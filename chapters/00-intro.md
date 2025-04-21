@@ -60,6 +60,10 @@ You’ll learn how attackers think—so you can become one of the good ones.
 > If you ever wonder, “Should I do this to a real chatbot?”  
 > The answer is simple: **Not unless you have permission.**
 
+This project is for **educational and ethical hacking purposes only**.  
+Do **not** use these techniques on real systems without permission.  
+Please read the [full disclaimer here](DISCLAIMER.md).
+
 ---
 
 ## ✅ Let’s Get Started
